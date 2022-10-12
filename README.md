@@ -8,7 +8,7 @@ En el 2020, termine mi carrera como Ingeniero en Biotecnologia 🧪, carrera enf
 
 En el 2021, comence a estudiar de manera autonoma y autodidacta distintos lenguajes de programacion. En este mismo año, me inscribi en el Curso de Desarrollo con Unity y a mediados del 2022 en Desarrollo con Python, lograndome certificar en cada uno de ellos.
 
-### Tecnologias
+### **Tecnologias**
 
 
 [![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white&labelColor=101010)]()
