@@ -4,9 +4,6 @@
 
 Soy Ingeniero en Biotecnologia y actualmente estoy enfocandome en el mundo de la programacion para potenciar mis conocimientos y habilidades para fines practicos💡 y creativos✨, aprendiendo constantemente nuevas tecnologias y herramientas para mejorar profesionalmente.
 
-En el 2020, termine mi carrera como Ingeniero en Biotecnologia 🧪, carrera enfocada a un area de Investigacion Cientifica, Marketing, Desarrollo y Emprendimiento, donde se nos enseña a resolver distintos tipos problemas, proponiendo y solucionandolos de la mejor forma posible.
-
-En el 2021, comence a estudiar de manera autonoma y autodidacta distintos lenguajes de programacion. En este mismo año, me inscribi en el Curso de Desarrollo con Unity y a mediados del 2022 en Desarrollo con Python, lograndome certificar en cada uno de ellos.
 
 ### **Tecnologias**
 
