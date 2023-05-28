@@ -2,23 +2,9 @@
 
 Soy Ingeniero en Biotecnologia y actualmente estoy enfocandome en el mundo de la programacion para potenciar mis conocimientos y habilidades para fines practicos💡 y creativos✨, aprendiendo constantemente nuevas tecnologias y herramientas para mejorar profesionalmente.
 
+<br>
 
-## Tecnologias
-**Unity Dev**
-<p>
-  
-  [![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white&labelColor=101010)]()
-  [![CSharp](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=CSharp&logoColor=white&labelColor=101010)]()
-  [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white&labelColor=101010)]()
-  [![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=white&labelColor=101010)]()
-  <br>
-  [![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=white&labelColor=101010)]()
-  [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=101010)]()
-  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
-</p>
-<hr>
-
-**Data Scientist**
+**Actualmente me estoy especializando en Data Scientist...**
 <p>
   
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)]()
@@ -34,8 +20,24 @@ Soy Ingeniero en Biotecnologia y actualmente estoy enfocandome en el mundo de la
   [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&labelColor=101010)]()
 </p>
 <hr>
+<br>
 
-**Web Design**
+**En mis pasatiempos me dedico a ser Desarrollador Unity...**
+<p>
+  
+  [![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white&labelColor=101010)]()
+  [![CSharp](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=CSharp&logoColor=white&labelColor=101010)]()
+  [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white&labelColor=101010)]()
+  [![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=white&labelColor=101010)]()
+  <br>
+  [![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=white&labelColor=101010)]()
+  [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=101010)]()
+  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
+</p>
+<hr>
+<br>
+
+**Y Tambien poseeo algunos conocimientos en Web Design...**
 <p>
   
   [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
@@ -44,3 +46,5 @@ Soy Ingeniero en Biotecnologia y actualmente estoy enfocandome en el mundo de la
   [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 </p>
 <hr>
+<br>
+
