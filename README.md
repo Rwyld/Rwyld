@@ -4,7 +4,7 @@ Soy Ingeniero en Biotecnologia y actualmente estoy enfocandome en el mundo de la
 
 <br>
 
-**Actualmente me estoy especializando en Data Scientist...**
+**Mis conocimientos como Ingeniero ML o Data Scientist...**
 <p>
   
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=101010)]()
